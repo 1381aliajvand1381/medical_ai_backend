@@ -4,3 +4,6 @@ pandas
 scikit-learn
 joblib
 pydantic
+numpy
+scipy
+gensim
